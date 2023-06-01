@@ -2,7 +2,7 @@
 Created by: Juan Camilo Gonzalez Cabrera <jc.gonzalezc20@uniandes.edu.co>
 
 Codigo desarrollado para mi proyecto de grado de pregrado en matematicas
-Programado en Julia utiliizando las librerias Oscar y LinearAlgebra
+Programado en Julia utilizando las librerias Oscar y LinearAlgebra
 
 Los dos archivos contiene el mismo codigo, uno en un archivo de julia y el otro en un notebook de Jupiter pero con Kernel en Julia.
 
